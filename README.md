@@ -1,1 +1,1 @@
-A repository to save all Hackerrank codes.
+A repository to save all my Hackerrank codes.
